@@ -104,7 +104,7 @@ echo $gender;
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") 
 {
-	$servername = "localhost";
+	$servername = "mysql_select";
 	$username = "aocelen";
 	$password = "aocelen";
 	$dbname = "mysql_select";
