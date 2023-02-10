@@ -7,6 +7,8 @@
 </head>
 <body>  
 
+<body background="Tokyoretro.jpg">
+
 <?php
 // define variables and set to empty values
 $nameErr = $emailErr = $genderErr = $websiteErr = "";
